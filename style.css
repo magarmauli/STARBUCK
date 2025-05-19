@@ -67,7 +67,19 @@
     font-weight: 600;
     color: #004d40;
     margin: 0;
+    margin-bottom: 1rem;
   }
+  .btn-box{
+    display: inline-block;
+    padding: 12px 28px;
+    background: rgb(6, 173, 31);
+    border-radius: 40px;
+    font-size: 16px;
+    color: black;
+    letter-spacing: 1px;
+    text-decoration: none;
+    font-weight: 600;
+}
   .container{
     margin-bottom: 4rem;
   }
